@@ -1,5 +1,7 @@
 # FinBERT: Financial Sentiment Analysis with BERT
 
+It has various basic models that we have use for Financial Sentimaental Analysis but BERT ahs given us the best possible results.
+
 FinBERT sentiment analysis model is now available on Hugging Face model hub. You can get the model [here](https://huggingface.co/ProsusAI/finbert). 
 
 FinBERT is a pre-trained NLP model to analyze sentiment of financial text. It is built by further training
