@@ -75,13 +75,3 @@ Here's an example with the provided example text: `test.txt`. From the command l
 ```bash
 python predict.py --text_path test.txt --output_dir output/ --model_path models/classifier_model/finbert-sentiment
 ```
-## Disclaimer
-This is not an official Prosus product. It is the outcome of an intern research project in Prosus AI team.
-### About Prosus 
-Prosus is a global consumer internet group and one of the largest technology investors in the world. Operating and
- investing globally in markets with long-term growth potential, Prosus builds leading consumer internet companies that empower people and enrich communities.
-For more information, please visit [www.prosus.com](www.prosus.com).
-
-## Contact information
-Please contact Dogu Araci `dogu.araci[at]prosus[dot]com` and Zulkuf Genc `zulkuf.genc[at]prosus[dot]com` about
- any FinBERT related issues and questions.
